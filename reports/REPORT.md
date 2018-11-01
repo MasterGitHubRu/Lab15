@@ -33,5 +33,5 @@ $ open http://cppcheck.sourceforge.net
 - [OCLint Tutorial](http://docs.oclint.org/en/stable/intro/tutorial.html)
 
 ```
-Copyright (c) 2017 Братья Вершинины
+Copyright (c) 2018 Михайлов Алексей
 ```
